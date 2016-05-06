@@ -346,9 +346,9 @@ La transmisión utiliza señales de Bluetooth de bajo consumo de energía."</str
     <string name="yes_all_caps">SÍ</string>
     <string name="no_all_caps">NO</string>
     <string name="forget">OLVIDAR</string>
-    <string name="settings_label">Configuración</string>
-    <string name="settings_label_launcher">Configuración</string>
-    <string name="settings_shortcut">Configuración</string>
+    <string name="settings_label">Ajustes</string>
+    <string name="settings_label_launcher">Ajustes</string>
+    <string name="settings_shortcut">Ajustes</string>
     <string name="airplane_mode">Modo avión</string>
     <string name="radio_controls_title">Más</string>
     <string name="wireless_networks_settings_title">Conexiones inalámbricas y redes</string>
